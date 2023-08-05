@@ -1,5 +1,5 @@
 # b
-This is b, I started this to see if you can connect sucessfully to the Internet and see b. If it displays b, you are connected.
+This is b, I started this to see if you can see b and it can also be used to test if you can connect. If it displays b, you are connected.
 
 https://b-bear.org
 
