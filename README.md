@@ -1,5 +1,5 @@
 # b-bear
-This is b-bear.org, I started this html to see if you can see b-bear and it can also be used to test if you can connect. If it displays b-bear, you are connected.
+This is b-bear.org, I started this html to see if you can see band it can also be used to test if you can connect. If it displays b, you are connected.
 
 https://b-bear.org
 
