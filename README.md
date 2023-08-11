@@ -1,5 +1,5 @@
 # b-bear
-This is b-bear.org, I started this html to see if you can see b.
+This is b-bear.org, I started this html to see if you can see b-bear.
 
 https://b-bear.org
 
