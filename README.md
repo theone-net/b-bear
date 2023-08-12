@@ -1,5 +1,5 @@
 # b-bear
-This is b-bear.org, I started this html to see if you can see b.
+This is b-bear.org, a test to see if you can load a small file, the website.
 
 https://b-bear.org
 
