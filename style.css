@@ -1,9 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
 @media (max-width: 768px) {
-  body {
-    background-color: #000000;
-    color: #ffffff;
-  }
   h1, h2, p, a{
     font-family: 'Open Sans', sans-serif;
   }
@@ -25,8 +21,8 @@ h1, h2, p, a {
   font-family: 'Open Sans', sans-serif;
 }
 .custom-button {
-  background-color: #000000;
-  color: #ffffff;
+  background-color: #999999;
+  color: #000000;
   padding: 10px 20px;
   border: none;
   border-radius: 5px;
