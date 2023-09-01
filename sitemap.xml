@@ -1,33 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+   <url>
+      <loc>http://www.b-bear.org/</loc>
+      <changefreq>never</changefreq>
+      <priority>1.0</priority>
+   </url>
+   <url>
+      <loc>http://b-bear.org/</loc>
+      <changefreq>never</changefreq>
+      <priority>1.0</priority>
+   </url>
+   <url>
+      <loc>http://www.b-bear.org/about.html/</loc>
+      <changefreq>never</changefreq>
+      <priority>1.0</priority>
+   </url>
+   <url>
+      <loc>http://b-bear.org/about.html/</loc>
+      <changefreq>never</changefreq>
+      <priority>1.0</priority>
+   </url>
+   <url>
+      <loc>http://www.b-bear.org/credits.html/</loc>
+      <changefreq>never</changefreq>
+      <priority>1.0</priority>
+   </url>
+   <url>
+      <loc>http://b-bear.org/credits.html/</loc>
+      <changefreq>never</changefreq>
+      <priority>1.0</priority>
+   </url>
 </urlset>
-<url>
-   <loc>http://www.b-bear.org/</loc>
-   <changefreq>never</changefreq>
-   <priority>1.0</priority>
-</url>
-<url>
-   <loc>http://b-bear.org/</loc>
-   <changefreq>never</changefreq>
-   <priority>1.0</priority>
-</url>
-<url>
-   <loc>http://www.b-bear.org/about.html/</loc>
-   <changefreq>never</changefreq>
-   <priority>1.0</priority>
-</url>
-<url>
-   <loc>http://b-bear.org/about.html/</loc>
-   <changefreq>never</changefreq>
-   <priority>1.0</priority>
-</url>
-<url>
-   <loc>http://www.b-bear.org/credits.html/</loc>
-   <changefreq>never</changefreq>
-   <priority>1.0</priority>
-</url>
-<url>
-   <loc>http://b-bear.org/about.html/</loc>
-   <changefreq>never</changefreq>
-   <priority>1.0</priority>
-</url>
