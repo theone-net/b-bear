@@ -1,7 +1,7 @@
-@import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&family=Ubuntu&display=swap');
 @media (max-width: 768px) {
   h1, h2, p, a{
-    font-family: 'Open Sans', sans-serif;
+    font-family: 'Montserrat', sans-serif; font-family: 'Ubuntu', sans-serif;
   }
   h1{
     font-size: 40px;
@@ -18,7 +18,7 @@ body {
   color: #ffffff;
 }
 h1, h2, p, a, button {
-  font-family: 'Open Sans', sans-serif;
+  font-family: 'Montserrat', sans-serif; font-family: 'Ubuntu', sans-serif;
 }
 .custom-button {
   background-color: #999999;
