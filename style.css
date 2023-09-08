@@ -1,18 +1,4 @@
 @import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
-@media (max-width: 768px) {
-  h1, h2, p, a {
-    font-family: 'Montserrat', sans-serif;
-  }
-  h1 {
-    font-size: 40px;
-  }
-  h2 {
-    font-size: 32px;
-  }
-  p, a {
-    font-size: 24px;
-  }
-}
 body {
   background-color: #000000;
   color: #ffffff;
@@ -38,4 +24,15 @@ h1 {
 }
 .custom-button:active {
    background-color: #777777;
+}
+@media (max-width: 768px) {
+  h1 {
+    font-size: 40px;
+  }
+  h2 {
+    font-size: 32px;
+  }
+  p, a {
+    font-size: 24px;
+  }
 }
