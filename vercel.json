@@ -25,5 +25,19 @@
         }
       ]
     }
+  ],
+    "redirects": [
+    {
+      "source": "^/(.*)$",
+      "destination": "https://www.b-bear.org/$1",
+      "permanent": true,
+      "headers": {
+        "Content-Security-Policy": "script-src 'self' https://static.cloudflareinsights.com; font-src 'self' https://fonts.googleapis.com https://fonts.gstatic.com;",
+        "X-Content-Type-Options": "nosniff",
+        "X-Frame-Options": "DENY",
+        "Referrer-Policy": "strict-origin",
+        "Permissions-Policy": "camera=(), geolocation=()"
+      }
+    }
   ]
 }
