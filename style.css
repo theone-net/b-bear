@@ -8,9 +8,6 @@ h1, h2, p, a, button {
 h1 {
   font-size: 50px;
 }
-a {
-  text-decoration: none;
-}
 .custom-button {
   background-color: #ffffff;
   color: #000000;
@@ -37,4 +34,7 @@ a {
   p, a {
     font-size: 24px;
   }
+}
+a {
+  text-decoration: none;
 }
