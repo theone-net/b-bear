@@ -1,5 +1,5 @@
 @font-face {
-    font-family: 'Montserrat';
+    font-family: 'Montserrat-Local';
     src: url('/Montserrat-Regular.woff2') format('woff2'),
          url('/Montserrat-Regular.woff') format('woff');
     font-weight: normal;
@@ -10,7 +10,7 @@ body {
   color: #ffffff;
 }
 h1, h2, p, a, button {
-  font-family: 'Montserrat', sans-serif;
+  font-family: 'Montserrat-Local', sans-serif;
 }
 h1 {
   font-size: 50px;
