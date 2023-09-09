@@ -25,12 +25,5 @@
         }
       ]
     }
-  ],
-    "redirects": [
-    {
-      "source": "^/(.*)$",
-      "destination": "https://www.b-bear.org/$1",
-      "permanent": true,
-    }
   ]
 }
