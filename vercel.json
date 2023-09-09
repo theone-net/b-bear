@@ -25,5 +25,10 @@
         }
       ]
     }
+  ],
+  "rewrites": [
+    { "source": "/about", "destination": "/about.html" },
+    { "source": "/credits", "destination": "/credits.html" },
+    { "source": "/index", "destination": "/index.txt" }
   ]
 }
