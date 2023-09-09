@@ -1,11 +1,4 @@
-@font-face {
-    font-family: 'Montserrat-Local';
-    src: url('/Montserrat-Regular.woff2') format('woff2'),
-         url('/Montserrat-Regular.woff') format('woff');
-    font-weight: normal;
-    font-style: normal;
-    font-display: swap;
-}
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
 body {
   background-color: #000000;
   color: #ffffff;
