@@ -22,6 +22,10 @@
         {
           "key": "Permissions-Policy",
           "value": "camera=(), geolocation=(), microphone=(), notifications=(), accelerometer=(), ambient-light-sensor=(), autoplay=(), gyroscope=(), magnetometer=(), payment=(), usb=()"
+        },
+        {
+          "key": "Cache-Control",
+          "value": "no-cache=\"Content-Security-Policy\""
         }
       ]
     }
