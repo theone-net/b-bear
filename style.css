@@ -17,7 +17,6 @@ h1 {
   font-size: 16px;
   cursor: pointer;
   transition: background-color 0.3s;
-  text-decoration: none;
 }
 .custom-button:hover {
    background-color: #999999;
