@@ -37,6 +37,6 @@
   "rewrites": [
     { "source": "/credits", "destination": "/credits.html" },
     { "source": "/index", "destination": "/index.html" },
-    { "source": "/test". "destination": "/b.txt" }
+    { "source": "/test", "destination": "/b.txt" }
   ]
 }
