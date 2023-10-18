@@ -15,12 +15,4 @@
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
     </url>
-    
-    <!-- URL for /credits -->
-    <url>
-        <loc>https://b-bear.org/credits</loc>
-        <lastmod>2023-10-14</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-    </url>
 </urlset>
