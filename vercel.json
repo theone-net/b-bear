@@ -37,10 +37,6 @@
   "redirects": [
     { "source": "/b.txt", "destination": "/test", "statusCode": 307 },
     { "source": "/b.txt/", "destination": "/test", "statusCode": 307 },
-    { "source": "/index.html", "destination": "/", "statusCode": 307 },
-    { "source": "/index.html/", "destination": "/", "statusCode": 307 },
-    { "source": "/index", "destination": "/" },
-    { "source": "/index/", "destination": "/" }
   ],
   "rewrites": [
     { "source": "/test", "destination": "/b.txt" },
