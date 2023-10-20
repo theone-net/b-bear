@@ -44,6 +44,6 @@
   ],
   "rewrites": [
     { "source": "/test", "destination": "/b.txt" },
-    { "source": "/test/", "destination": "/test" },
+    { "source": "/test/", "destination": "/test" }
   ]
 }
