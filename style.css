@@ -27,7 +27,7 @@ h1 {
 @media (max-width: 768px) {
   h1 {
     font-size: 45px;
-    color: orange;
+    color: #FFA500;
   }
   h2 {
     font-size: 32px;
