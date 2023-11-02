@@ -9,6 +9,9 @@ html {
 }
 
 body {
+    background-image: url('back.png'); /* Replace 'back.png' with the path to your background image */
+    background-size: cover;
+    background-repeat: no-repeat;
     background-color: #000000;
     color: #ffffff;
     display: flex; /* Center the content */
