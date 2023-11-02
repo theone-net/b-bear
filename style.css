@@ -2,6 +2,12 @@ html, body {
     height: 100%;
 }
 
+html {
+    background-image: url('back.png'); /* Replace 'back.png' with the path to your background image */
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
 body {
     background-color: #000000;
     color: #ffffff;
@@ -11,14 +17,6 @@ body {
 }
 
 .container {
-    text-align: center; /* Center text within this container if needed */
-}
-
-.background-container {
-    background-image: url('back.png'); /* Replace 'back.png' with the path to your background image */
-    background-size: cover;
-    background-repeat: no-repeat;
-    color: #ffffff;
     text-align: center; /* Center text within this container if needed */
 }
 
