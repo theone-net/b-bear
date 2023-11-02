@@ -39,7 +39,7 @@ h1 {
 }
 
 .custom-button {
-    background-color: #7EAFD6;
+    background-color: #7EAF00;
     color: #000000;
     padding: 10px 20px;
     border: none;
@@ -50,13 +50,13 @@ h1 {
 }
 
 .custom-button:hover {
-    background-color: #67A1CF;
-    color: #222222;
+    background-color: #67A100;
+    color: #444444;
 }
 
 .custom-button:active {
-    background-color: #4F93C8;
-    color: #333333;
+    background-color: #4F9300;
+    color: #777777;
 }
 
 @media (max-width: 768px) {
