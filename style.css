@@ -5,6 +5,7 @@ html, body {
 }
 
 body {
+    background-color: #000000;
     color: #ffffff;
     display: flex; /* Center the content */
     justify-content: center; /* Center horizontally (x-axis) */
