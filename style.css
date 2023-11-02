@@ -6,7 +6,7 @@ body {
     background-image: url('back.png'); /* Replace 'back.png' with the path to your background image */
     background-size: cover;
     background-repeat: no-repeat;
-    background-color: #000000;
+    background-color: #243B85;
     color: #ffffff;
     display: flex; /* Center the content */
     justify-content: center; /* Center horizontally (x-axis) */
