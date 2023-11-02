@@ -1,39 +1,41 @@
 body {
-  background-color: #000000;
-  color: #ffffff;
+    background-image: url('back.png'); /* Replace 'your-image.jpg' with the path to your image */
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: #ffffff;
 }
 h1, h2, p, a, button {
-  font-family: sans-serif;
+    font-family: sans-serif;
 }
 h1 {
-  font-size: 50px;
+    font-size: 50px;
 }
 .custom-button {
-  background-color: #ffffff;
-  color: #000000;
-  padding: 10px 20px;
-  border: none;
-  border-radius: 5px;
-  font-size: 16px;
-  cursor: pointer;
-  transition: background-color 0.3s;
+    background-color: #ffffff;
+    color: #000000;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    font-size: 16px;
+    cursor: pointer;
+    transition: background-color 0.3s;
 }
 .custom-button:hover {
-   background-color: #999999;
+    background-color: #999999;
 }
 .custom-button:active {
-   background-color: #777777;
+    background-color: #777777;
 }
 @media (max-width: 768px) {
-  h1 {
-    font-size: 45px;
-  }
-  h2 {
-    font-size: 32px;
-  }
-  p, a {
-    font-size: 24px;
-  }
+    h1 {
+        font-size: 45px;
+    }
+    h2 {
+        font-size: 32px;
+    }
+    p, a {
+        font-size: 24px;
+    }
 }
 a {
     text-decoration: none;
