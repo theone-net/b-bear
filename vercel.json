@@ -43,11 +43,15 @@
     { "source": "/index.html/", "destination": "/", "statusCode": 307 },
     { "source": "/tos.html", "destination": "/tos", "statusCode": 307  },
     { "source": "/tos.html/", "destination": "/tos", "statusCode": 307  },
-    { "source": "/tos/", "destination": "/tos", "statusCode": 307 }
+    { "source": "/tos/", "destination": "/tos", "statusCode": 307 },
+    { "source": "/privacy.html", "destination": "/privacy", "statusCode": 307  },
+    { "source": "/privacy.html/", "destination": "/privacy", "statusCode": 307  },
+    { "source": "/privacy/", "destination": "/privacy", "statusCode": 307 }
   ],
   "rewrites": [
     { "source": "/test", "destination": "/b.txt" },
     { "source": "/test/", "destination": "/test" },
-    { "source": "/tos", "destination": "/tos.html" }
+    { "source": "/tos", "destination": "/tos.html" },
+    { "source": "/privacy", "destination": "/privacy.html" }
   ]
 }
