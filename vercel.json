@@ -35,10 +35,10 @@
     }
   ],
   "redirects": [
-    { "source": "/index.txt", "destination": "/", "statusCode": 307 },
+    { "source": "/b.txt", "destination": "/", "statusCode": 307 },
     { "source": "/index", "destination": "/", "statusCode": 307 },
     { "source": "/index/", "destination": "/", "statusCode": 307 },
-    { "source": "/index.txt/", "destination": "/", "statusCode": 307 }
+    { "source": "/b.txt/", "destination": "/", "statusCode": 307 }
   ],
   "rewrites": [
     { "source": "/", "destination": "/b.txt" }
