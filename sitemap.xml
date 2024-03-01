@@ -3,30 +3,8 @@
     <!-- URL for the main domain -->
     <url>
         <loc>https://b-bear.org/</loc>
-        <lastmod>2023-11-1</lastmod>
-        <changefreq>weekly</changefreq>
+        <lastmod>2024-3-1</lastmod>
+        <changefreq>monthly</changefreq>
         <priority>1.0</priority>
-    </url>
-    
-    <!-- URL for /test -->
-    <url>
-        <loc>https://b-bear.org/test</loc>
-        <lastmod>2023-10-14</lastmod>
-        <changefreq>never</changefreq>
-        <priority>0.8</priority>
-    </url>
-
-    <url>
-        <loc>https://b-bear.org/privacy</loc>
-        <lastmod>2023-11-1</lastmod>
-        <changefreq>monthly</changefreq>
-        <priority>1</priority>
-    </url>
-
-    <url>
-        <loc>https://b-bear.org/tos</loc>
-        <lastmod>2023-11-1</lastmod>
-        <changefreq>monthly</changefreq>
-        <priority>1</priority>
     </url>
 </urlset>
