@@ -38,14 +38,9 @@
     { "source": "/b.txt", "destination": "/", "statusCode": 307 },
     { "source": "/index", "destination": "/", "statusCode": 307 },
     { "source": "/index/", "destination": "/", "statusCode": 307 },
-    { "source": "/b.txt/", "destination": "/", "statusCode": 307 },
-    { "source": "/404.html/", "destination": "/404.txt", "statusCode": 307 },
-    { "source": "/404/", "destination": "/404.txt", "statusCode": 307 },
-    { "source": "/404", "destination": "/404.txt", "statusCode": 307 },
-    { "source": "/404.html", "destination": "/404.txt", "statusCode": 307 }
+    { "source": "/b.txt/", "destination": "/", "statusCode": 307 }
   ],
   "rewrites": [
-    { "source": "/", "destination": "/b.txt" },
-    { "source": "/404.html", "destination": "/404.txt" }
+    { "source": "/", "destination": "/b.txt" }
   ]
 }
