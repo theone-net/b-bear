@@ -35,24 +35,12 @@
     }
   ],
   "redirects": [
-    { "source": "/index.html", "destination": "/", "statusCode": 307 },
-    { "source": "/index", "destination": "/", "statusCode": 307 },
-    { "source": "/index/", "destination": "/", "statusCode": 307 },
-    { "source": "/index.html/", "destination": "/", "statusCode": 307 },
-    { "source": "/terms.html", "destination": "/terms", "statusCode": 307 },
-    { "source": "/terms/", "destination": "/terms", "statusCode": 307 },
-    { "source": "/terms.html/", "destination": "/terms", "statusCode": 307 },
-    { "source": "/b.txt", "destination": "/b", "statusCode": 307 },
-    { "source": "/b/", "destination": "/b", "statusCode": 307 },
-    { "source": "/b.txt/", "destination": "/b", "statusCode": 307 },
-    { "source": "/privacy.html", "destination": "/privacy", "statusCode": 307 },
-    { "source": "/privacy/", "destination": "/privacy", "statusCode": 307 },
-    { "source": "/privacy.html/", "destination": "/privacy", "statusCode": 307 }
+    { "source": "/b.txt", "destination": "/", "statusCode": 307 },
+    { "source": "/b", "destination": "/", "statusCode": 307 },
+    { "source": "/b/", "destination": "/", "statusCode": 307 },
+    { "source": "/b.txt/", "destination": "/", "statusCode": 307 }
   ],
   "rewrites": [
-    { "source": "/", "destination": "/index.html" },
-    { "source": "/terms", "destination": "/terms.html" },
-    { "source": "/b", "destination": "/b.txt" },
-    { "source": "/privacy", "destination": "/privacy.html" }
+    { "source": "/", "destination": "/b.txt" }
   ]
 }
