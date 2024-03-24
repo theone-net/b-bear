@@ -40,11 +40,9 @@
     { "source": "/index/", "destination": "/", "statusCode": 307 },
     { "source": "/index.html/", "destination": "/", "statusCode": 307 },
     { "source": "/terms.html", "destination": "/terms", "statusCode": 307 },
-    { "source": "/terms", "destination": "/terms", "statusCode": 307 },
     { "source": "/terms/", "destination": "/terms", "statusCode": 307 },
     { "source": "/terms.html/", "destination": "/terms", "statusCode": 307 },
     { "source": "/b.txt", "destination": "/b", "statusCode": 307 },
-    { "source": "/b", "destination": "/b", "statusCode": 307 },
     { "source": "/b/", "destination": "/b", "statusCode": 307 },
     { "source": "/b.txt/", "destination": "/b", "statusCode": 307 }
   ],
