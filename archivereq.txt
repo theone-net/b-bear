@@ -1,0 +1,11 @@
+Hello,
+
+I am the owner of the website b-bear.org and would like to request a removal of all content from 2021-current, as it is not showing the current use of the site right now, and if a user goes on the Internet Archive, they may misinterpret what the current state of the website is for. The current website is designed to be as minimalistic as possible and is designed to transfer a small amount of data, the letter b, to see if I can access it, although it is not explicitly an internet connection test.
+
+Please remove:
+-- b-bear.org, including b-bear.org/tos, b-bear.org/privacy, b-bear.org, b-bear.org/credits, b-bear.org/about, b-bear.org/tos.html, b-bear.org/privacy.html, b-bear.org.html, b-bear.org/credits.html, b-bear.org/about.html (or all subdomains)
+-- From time period 2021-current
+-- Have had control of this site from the beginning.
+
+I understand it is not guaranteed but it may cause less confusion for possible users of my site.
+Thank you!
